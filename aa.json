@@ -6,7 +6,7 @@
   "sites": [
       {
       "key": "NewDouBan",
-      "name": "🐮【公众号：王二】🐮",
+      "name": "🐮【公众号：王】🐮",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "searchable": 0,
