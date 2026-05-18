@@ -25,10 +25,6 @@
       "name": "☯️王二小"
     },
     {
-      "url": "http://ok213.top/ok",
-      "name": "☯️OK线路"
-    },
-    {
       "url": "https://6800.kstore.vip/fish.json",
       "name": "☯️凯速摸鱼"
     },
