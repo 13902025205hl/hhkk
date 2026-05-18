@@ -1,26 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/%E6%98%9F%E7%A9%BA%E5%BD%B1%E8%A7%86%E7%BA%BF%E8%B7%AF(2026).json",
-      "name": "☯️仰望星空线路（2026）"
-    },
-    {
-      "url": "http://yydsys.top/duo",
-      "name": "☯️多多"
-    },
-    {
-      "url": "https://g.33445500.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "name": "☯️潇洒①"
-    },
-    {
-      "url": "http://bobohome.ignorelist.com:20247/🧑潇洒哥/",
-      "name": "☯️潇洒②"
-    },
-    {
-      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
-      "name": "🍓潇洒本地🍓"
-    },
-    {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/?ou=公众号装歌app&mz=index&jar=index&b=欧歌tkh",
       "name": "☯️欧歌①"
     },
