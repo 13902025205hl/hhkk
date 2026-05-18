@@ -93,8 +93,8 @@
       "name": "🐟摸鱼儿"
     },
     {
-      "url": "http://rihou.cc:88/demoabc.json",
-      "name": "🐔VOX短剧"
+      "url": "https://盒子迷.top/禁止贩卖",
+      "name": "🐔盒子迷"
     },
     {
       "name": "🈚无界高速",
