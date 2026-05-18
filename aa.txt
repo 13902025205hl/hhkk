@@ -29,30 +29,6 @@
       "name": "☯️欧歌②"
     },
     {
-      "name": "🈴音乐",
-      "url": "https://14747.kstore.space/%E9%9F%B3%E4%B9%90%E5%8F%B0/ktv.json"
-    },
-    {
-      "url": "https://d.kstore.dev/download/6651/api.json",
-      "name": "🈴龙潭音乐"
-    },
-    {
-      "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
-      "name": "🈴天微音乐"
-    },
-    {
-      "url": "http://jx.3116598.xyz/dj/JD.json",
-      "name": "❤️集短剧①"
-    },
-    {
-      "url": "http://jiduo.3116598.xyz",
-      "name": "❤️集短剧②"
-    },
-    {
-      "url": "http://jiduo.fpr.net/dj",
-      "name": "❤️集短剧③"
-    },
-    {
       "url": "http://cnmb.cc.cd/jk/xnf.json",
       "name": "☯️小脑爷"
     },
@@ -103,10 +79,6 @@
     {
       "url": "https://9877.kstore.space/AnotherDS/cloud.json",
       "name": "☯️潇洒云盘"
-    },
-    {
-      "url": "https://gitee.com/yuan301/tv/raw/master/ok.json",
-      "name": "☯️钢哥"
     },
     {
       "url": "https://9280.kstore.vip/newwex.json",
