@@ -17,24 +17,8 @@
       "name": "🈴小米线路②"
     },
     {
-      "url": "https://gitee.com/hu-congrong/0201/raw/master/k.json",
-      "name": "🈴新秒播线路"
-    },
-    {
       "url": "https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
       "name": "🈴东篱线路"
-    },
-    {
-      "url": "https://gitee.com/shunxi-nature/shunxi-blossom/raw/master/1.json",
-      "name": "🈴顺喜花开"
-    },
-    {
-      "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/1.json",
-      "name": "☯️青龙"
-    },
-    {
-      "url": "https://9877.kstore.space/AnotherDS/cloud.json",
-      "name": "☯️潇洒云盘"
     },
     {
       "url": "https://9280.kstore.vip/newwex.json",
