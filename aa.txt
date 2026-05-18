@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "https://gitee.com/hu-congrong/0201/raw/master/k.json",
-      "name": "☯️叶子线路"
-    },
-    {
       "url": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/%E6%98%9F%E7%A9%BA%E5%BD%B1%E8%A7%86%E7%BA%BF%E8%B7%AF(2026).json",
       "name": "☯️仰望星空线路（2026）"
     },
